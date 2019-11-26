@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `1. npx create-react-app use-state`
 ### `2. cd use-state`
 ### `3. npm install eslint-plugin-react-hooks --save-dev`
+### `4. npm start`
 
 ## Available Scripts
 
