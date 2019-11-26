@@ -1,0 +1,18 @@
+/**#b1c6e5, #ffd8d9, #ffc9bf, #8eadd9**/
+
+html, body {
+    background-color:#b1c6e5;
+    height:100%;
+
+}
+
+.box-wrapper{
+    background-color:#fff;
+    color:#8eadd9;
+    padding:25px;
+}
+.box-author{
+    font-size:16px;
+    color:gray;
+}
+.color {color:#2b2830;}
