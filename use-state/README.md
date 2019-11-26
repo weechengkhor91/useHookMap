@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `1. npx create-react-app use-state`
+### `2. cd use-state`
+### `3. npm install eslint-plugin-react-hooks --save-dev`
+
 ## Available Scripts
 
 In the project directory, you can run:
